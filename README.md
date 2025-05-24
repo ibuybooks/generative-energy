@@ -101,14 +101,14 @@ This Project Is a Faithful LuaLaTeX Remaster of Dr. Raymond F. Peat, Ph.D.'s *Ge
 <h3>📄 Instructions:</h3>
 
 ```bash
+# Clone the Project
+git clone https://github.com/ibuybooks/generative-energy.git
+cd generative-energy
+
 # Install TeX Dependencies
 tlmgr install fontspec geometry microtype fancyhdr tocloft parskip \
               graphicx titlesec pdfpages luacode pdfx tikz \
               varwidth pgfplots pst-geo etoolbox
-
-# Clone the Project
-git clone https://github.com/ibuybooks/generative-energy.git
-cd generative-energy
 
 # Compile the Book (Run Twice for Table of Contents)
 lualatex GenerativeEnergy
