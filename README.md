@@ -18,7 +18,7 @@
 
   <br>
 
-  >*Energy is the Only Life, and is from the Body... Energy is Eternal Delight.*
+  >*"Energy is the Only Life, and is from the Body... Energy is Eternal Delight."*
   >
   > — William Blake
 </div>
